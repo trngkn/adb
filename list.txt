@@ -37,7 +37,7 @@ $popup,third-party,domain=megaurl.in|hamtruyen.com|phim1080z.com|phim1080zz.com|
 /assets/themes/js/wonderfarm$script,domain=huphimzz.com|phim18z.net
 /banner-ads.
 /banners/*.png
-/banners/*.gif
+||/banners/*.gif
 /banner/*.gif
 /blueserving.
 /cdn.bongdadem.net/*.gif$image
